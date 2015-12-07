@@ -1,3 +1,6 @@
 [submodule "web-chat"]
 	path = web-chat
 	url = https://github.com/iqbaldeep/web-chat.git
+[submodule "chat-backend"]
+	path = chat-backend
+	url = https://github.com/iqbaldeep/chat-backend.git
