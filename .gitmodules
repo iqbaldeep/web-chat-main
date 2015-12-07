@@ -1,0 +1,3 @@
+[submodule "web-chat"]
+	path = web-chat
+	url = https://github.com/iqbaldeep/web-chat.git
